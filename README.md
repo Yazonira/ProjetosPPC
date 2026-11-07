@@ -1,5 +1,4 @@
 # ProjetosPPC
 
-Integrantes:  Laila Maria Alves Santos
-              Lúcio Santos Melo
+Integrantes:  Laila Maria Alves Santos e Lúcio Santos Melo
               
